@@ -1,7 +1,7 @@
 # Anamoly-detection
  Detecting fraud in Credit card transactions using Isolation Forest & Local Outlier Factor
  
-Findings-
+## Findings-
 
 Local Outlier Factor-
 We have 99.65% accuracy but we were only accurate because there are a lot of valid cases than Fraudulent cases. but we are very bad in terms
